@@ -12,7 +12,7 @@ build/
 dist/
 models/
 artifacts/
-data/
+data/*
 !data/.gitkeep
-image/
+image/*
 !image/.gitkeep
